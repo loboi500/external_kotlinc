@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# $1 Path to the new version.
-# $2 Path to the old version.
-
-# Copies trove4j_src.jar for GPL compliance.
-cp -a -n $2/lib/trove4j_src.jar $1/lib/
+version https://git-lfs.github.com/spec/v1
+oid sha256:36fbbed7c041d1482d36220aab8ab036935203c4ed9fa8597c5cfa33cf9db272
+size 159

@@ -1,0 +1,14 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_MPL filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+build.txt filter=lfs diff=lfs merge=lfs -text
+lib filter=lfs diff=lfs merge=lfs -text
+license filter=lfs diff=lfs merge=lfs -text
+bin filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_LGPL filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_BSD filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_MIT filter=lfs diff=lfs merge=lfs -text
+post_update.sh filter=lfs diff=lfs merge=lfs -text
